@@ -1,3 +1,3 @@
-import Lock from './Lock';
+import Communication from './Communication';
 
-export default Lock;
+export default Communication;
